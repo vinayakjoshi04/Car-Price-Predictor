@@ -87,9 +87,7 @@ python app.py
 - **Algorithm**: Multiple Linear Regression
 - **Features Used**: Car specifications including brand, model, year, mileage, engine capacity, etc.
 - **Performance Metrics**:
-  - R-squared: [Your R² score]
-  - Mean Absolute Error (MAE): [Your MAE]
-  - Root Mean Squared Error (RMSE): [Your RMSE]
+  - R-squared: 84%
 
 ### Data Preprocessing
 - Handling missing values
