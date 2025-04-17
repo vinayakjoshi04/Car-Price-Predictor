@@ -18,7 +18,6 @@
 - [Model Information](#model-information)
 - [Project Structure](#project-structure)
 - [Future Improvements](#future-improvements)
-- [Acknowledgements](#acknowledgements)
 
 ## 🌟 Overview
 
@@ -135,7 +134,4 @@ This project was developed as my first full-stack machine learning application, 
 
 ---
 
-## 📬 Contact
-
-For any questions or feedback, please reach out at [your-email@example.com](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile/).
 
